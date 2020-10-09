@@ -1,0 +1,27 @@
+.unoytres {
+  color: red;
+  background-color: blue;
+}
+p {
+  font-size: 16px;
+}
+.dosycuatro {
+  color: green;
+}
+#subdos {
+  font-style: italic;
+}
+body {
+  font-family: Helvetica;
+}
+
+/* asumo que la parte que dice "el resto" de la consigna se refiere al resto del documento.
+en el caso que se refiera ak resto de la section 2
+hubiera usado un identificador para la setion 2
+ej:
+section_dos {
+font-family: Helvetica;
+}
+De esa manera se aplicaría solamente en la section 2
+
+ */
